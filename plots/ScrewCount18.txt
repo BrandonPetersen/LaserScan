@@ -1,0 +1,47 @@
+Screw Adjustment Requirements (multiplied by 4 per foot):
+8 screws of 0.1 mm adjustment
+24 screws of 0.2 mm adjustment
+8 screws of 0.3 mm adjustment
+48 screws of 0.4 mm adjustment
+36 screws of 0.5 mm adjustment
+80 screws of 0.6 mm adjustment
+92 screws of 0.7 mm adjustment
+76 screws of 0.8 mm adjustment
+108 screws of 0.9 mm adjustment
+164 screws of 1.0 mm adjustment
+148 screws of 1.1 mm adjustment
+132 screws of 1.2 mm adjustment
+156 screws of 1.3 mm adjustment
+120 screws of 1.4 mm adjustment
+148 screws of 1.5 mm adjustment
+116 screws of 1.6 mm adjustment
+128 screws of 1.7 mm adjustment
+184 screws of 1.8 mm adjustment
+100 screws of 1.9 mm adjustment
+68 screws of 2.0 mm adjustment
+80 screws of 2.1 mm adjustment
+56 screws of 2.2 mm adjustment
+104 screws of 2.3 mm adjustment
+48 screws of 2.4 mm adjustment
+60 screws of 2.5 mm adjustment
+80 screws of 2.6 mm adjustment
+56 screws of 2.7 mm adjustment
+68 screws of 2.8 mm adjustment
+88 screws of 2.9 mm adjustment
+32 screws of 3.0 mm adjustment
+60 screws of 3.1 mm adjustment
+52 screws of 3.2 mm adjustment
+12 screws of 3.3 mm adjustment
+28 screws of 3.4 mm adjustment
+20 screws of 3.5 mm adjustment
+4 screws of 3.6 mm adjustment
+4 screws of 6.0 mm adjustment
+
+Feet Requirements:
+695 feet of 6 mm (subtracting 39.8 mm)
+6 feet of 4 mm (subtracting 37.8 mm)
+
+Screw Purchase Requirements (including 80 spare screws for each size):
+80 screws of 4mm length
+2696 screws of 6mm length
+260 screws of 8mm length
